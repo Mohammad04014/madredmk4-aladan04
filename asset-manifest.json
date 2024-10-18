@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/git@github.com:Mohammad04014/madredmk4-aladan04.git/static/css/main.c2404d2a.css",
+    "main.js": "/git@github.com:Mohammad04014/madredmk4-aladan04.git/static/js/main.c74de304.js",
+    "static/js/453.9430e373.chunk.js": "/git@github.com:Mohammad04014/madredmk4-aladan04.git/static/js/453.9430e373.chunk.js",
+    "static/media/klo.jpg": "/git@github.com:Mohammad04014/madredmk4-aladan04.git/static/media/klo.88fd19da27eb7bf80bc3.jpg",
+    "index.html": "/git@github.com:Mohammad04014/madredmk4-aladan04.git/index.html",
+    "main.c2404d2a.css.map": "/git@github.com:Mohammad04014/madredmk4-aladan04.git/static/css/main.c2404d2a.css.map",
+    "main.c74de304.js.map": "/git@github.com:Mohammad04014/madredmk4-aladan04.git/static/js/main.c74de304.js.map",
+    "453.9430e373.chunk.js.map": "/git@github.com:Mohammad04014/madredmk4-aladan04.git/static/js/453.9430e373.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2404d2a.css",
+    "static/js/main.c74de304.js"
+  ]
+}
